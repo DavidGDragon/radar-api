@@ -1,4 +1,4 @@
-FROM aye0aye/demobase:master.5
+FROM aye0aye/demobase:master.6
 
 RUN mkdir -p /root/radar-api
 ADD . /root/radar-api/
